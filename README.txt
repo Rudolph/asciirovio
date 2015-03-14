@@ -79,12 +79,6 @@ All the commands are case insensitive, except for 'h' and 'H'.
 ## TODO ##
 Write the Todo's
 
-
-## Errata ##
-See http://robots.rudforce.com/ for (potentially) more up-to-date information,
-new releases, more accurate TODO's, etc...
-
-
 ## Changelog ##
 v0.0.1 - Oct 16, 2008
     initial release
