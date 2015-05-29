@@ -2,7 +2,7 @@
 # rovio.py v0.0.1 alpha -- text-mode Rovio client for Linux
 #
 # a Rudforce Intragalactic endeavor
-# http://robots.rudforce.com/
+# http://www.rudforce.com/
 #
 # copyleft 2008 Del Rudolph
 # see http://www.gnu.org/copyleft/gpl.html for latest license
